@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'bootstrap-sass', '2.1'
 gem 'therubyracer'
 gem 'rails', '3.2.11'
 
